@@ -1,4 +1,3 @@
----
 
 # 📱 Flutter Fashion Store App
 
@@ -156,4 +155,3 @@ assets/
 * Freepik, Pexels for placeholder images
 * Open-source Flutter community
 
----
